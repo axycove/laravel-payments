@@ -1,0 +1,1 @@
+<small>You will be directed to the PayPal checkout page.</small>
